@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Ícaro Costal 👋</h1>
+<h1 align="center">Olá! Eu sou Ícaro Humberto 👋</h1>
 
 <p align="center">
 Estudante de tecnologia com foco em <strong>desenvolvimento web</strong> e <strong>Python</strong> 🐍 <br/>
